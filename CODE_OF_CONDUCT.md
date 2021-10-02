@@ -2,13 +2,15 @@ All participants in the Missoula Tech Slack are required to comply with the foll
 
 # The Short Version
 
-Be respectful of other people, respectfully ask people to stop if you are bothered; respect privacy; and if you can’t resolve an issue with someone else you should contact the Organizers. If you are being a problem, it will be made clear to you, and you may be asked to leave the Missoula Tech Slack.
+Be respectful of other people, respectfully ask people to stop if you are bothered; do not take advantage
+of this space to promote something in excess; respect privacy; and if you can’t resolve an issue with
+someone else you should contact the Organizers. If you are being a problem, it will be made clear to you, and you may be asked to leave the Missoula Tech Slack.
 
 # The Long Version
 
 ## Respect
 
-The Missoula Tech Slack is an intentionally positive online community dedicated to the growth and evolution of our local community. We recognize and celebrate the creativity and collaboration of our independent members and the diversity of skills, talents, experiences, cultures, and opinions that they bring to Missoula, Montana and the World. 
+The Missoula Tech Slack is an intentionally positive online community dedicated to the growth and evolution of our local community. We recognize and celebrate the creativity and collaboration of our independent members and the diversity of skills, talents, experiences, cultures, and opinions that they bring to Missoula, Montana and the World.
 
 The Missoula Tech Slack is an inclusive environment, based on treating all individuals respectfully, regardless of gender or gender identity (including transgender status), sexual orientation, age, disability, nationality, ethnicity, religion (or lack thereof), political affiliation, or career path.
 
@@ -16,12 +18,17 @@ We value respectful behavior above individual opinions.
 
 Respectful behavior includes but is not limited to:
 
-* Be considerate, kind, constructive, and helpful.
-* Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
-* If you’re not sure, ask someone instead of assuming. No, really. Just ask the Organizers. We’d rather hear from you than hear about something you said or did after the fact, and we are here to help.
-* Don’t be a bystander. Role model respectful behaviour, but also help to address disrespect when you see it. 
+- Be considerate, kind, constructive, and helpful.
+- Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
+- If you’re not sure, ask someone instead of assuming. No, really. Just ask the Organizers. We’d rather hear from you than hear about something you said or did after the fact, and we are here to help.
+- Don’t be a bystander. Role model respectful behaviour, but also help to address disrespect when you see it.
 
 Disrespectful behavior outside this community may be considered a violation of this code of conduct at the discretion of the Organizers.
+
+## Self-Promotion
+
+Excessive self-promotion of one's company, product, or paid service is not allowed here. We are here to
+share a love of technology and build a community of mutual interests, not sell each other things.
 
 ## Privacy
 
@@ -45,19 +52,20 @@ Should you catch yourself behaving disrespectfully, or be confronted as such, li
 
 ## Organizers
 
-The Organizer(s) of Missoula Tech as of March 2020:
+The Organizer(s) of Missoula Tech as of October 2021:
 
-* @lyonwj
-* @George Lesica
-* @Smai Fullerton
-* @Kelsey Iverson
-* @Doug Odegaard
-* @Edward Weymouth
+- @lyonwj
+- @George Lesica
+- @Smai Fullerton
+- @Kelsey Iverson
+- @Doug Odegaard
+- @Edward Weymouth
 
 ## Thanks
 
 Thank you to every Missoula Tech Slack community member for helping to make our home the respectful and inclusive community that it is.
 
+V0.2 of this Code of Conduct was published on October 2nd, 2021.
 V0.1 of this Code of Conduct was published on March 19th, 2020.
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
