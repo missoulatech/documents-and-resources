@@ -38,6 +38,10 @@ If you want to publicly disclose anything discussed here, use the [Chatham House
 
 For attribution of specific content found on this Slack, we ask that you ask the originator of the content for permission. If you don’t receive consent in a reasonable period of time, we ask that you credit the “Missoula Tech Slack.”
 
+## Remember You Have a Body
+
+No matter what side of conflict you are on, we strongly recommend that when it comes up in Slack that you **pause and step away from your computer before engaging**. Become aware of how your body is reacting. Is your heart racing? Have your veins run cold? Are you blushing, or feeling flooded with the tiny needle pricks of mortification? If possible, move, breathe, dispel some energy, focus on something else, and stay away for at least an hour if you can. There is no urgency here, and how you react when your nervous system is preparing your body to engage with a threat will be much different than when it's not.
+
 ## Resolving Conflict
 
 Culturally, our society is full of aggression and passive aggressiveness in how people communicate. We invite another way.
@@ -50,9 +54,9 @@ If someone is being disrespectful to you, please consider addressing the issue d
 
 Sometimes this is not productive though, particularly if one party is unwilling to examine their role in a situation and their behavior escalates to abuse or manipulation. If you feel in any way unable or unwilling to engage in this process, or you attempt and it leads to more harm, please bring it to the attention of an Organizer. We can provide additional support or take further action to remove someone from the community if all other avenues have been exhausted.
 
-## Repairing Conflict
+## Repairing Harm
 
-Should you catch yourself behaving disrespectfully, or if someone approaches you with an example of how you caused them harm: remember that even if your intentions are good, your actions can still hurt someone. It is inevitable when in relationship with others. When this happens, you have an opportunity to repair the harm you've caused. This is not easy to do, but necessary to create real growth in a relationship.
+Should you catch yourself behaving disrespectfully, or if someone approaches you with an example of how you caused them harm: remember that even if your intentions are good, your actions can still hurt someone. When this happens, you have an opportunity to repair the harm you've caused. This is not easy to do, but necessary to create real growth in a relationship.
 
 One model of repair looks like:
 
