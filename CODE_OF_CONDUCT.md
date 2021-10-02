@@ -12,7 +12,7 @@ someone else you should contact the Organizers. If you are being a problem, it w
 
 The Missoula Tech Slack is an intentionally positive online community dedicated to the growth and evolution of our local community. We recognize and celebrate the creativity and collaboration of our independent members and the diversity of skills, talents, experiences, cultures, and opinions that they bring to Missoula, Montana and the World.
 
-The Missoula Tech Slack is an inclusive environment, based on treating all individuals respectfully, regardless of gender or gender identity (including transgender status), sexual orientation, age, disability, nationality, ethnicity, religion (or lack thereof), political affiliation, or career path.
+The Missoula Tech Slack is an inclusive environment, based on treating all individuals respectfully, regardless of race, gender or gender identity (including transgender status), sexual orientation, age, disability, nationality, ethnicity, religion (or lack thereof), political affiliation, or career path.
 
 We value respectful behavior above individual opinions.
 
@@ -38,17 +38,33 @@ If you want to publicly disclose anything discussed here, use the [Chatham House
 
 For attribution of specific content found on this Slack, we ask that you ask the originator of the content for permission. If you don’t receive consent in a reasonable period of time, we ask that you credit the “Missoula Tech Slack.”
 
-## Resolve Peacefully
+## Resolving Conflict
 
-We believe peer-to-peer discussions, feedback, and corrections can help build a stronger, safer, and more welcoming community.
+Culturally, our society is full of aggression and passive aggressiveness in how people communicate. We invite another way.
 
-If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior. Expect that others in the community wish to help keep the community respectful, and welcome your input in doing so.
+We believe direct peer-to-peer discussions, feedback, and nonviolent communication can help build a stronger and more inclusive community. It is of utmost importance that everyone feels safe to have conversations here, which includes agreeing to disagree with grace and humility.
 
-If you experience disrespectful behavior toward yourself or anyone else and feel in any way unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an Administrator. We want to hear from you about anything that you feel is disrespectful, threatening, or just something that could make someone feel distressed in any way. We will listen and work to resolve the matter.
+If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior. Expect that others in the community wish to help keep the community safe for everyone, and welcome your input in doing so.
 
-## Apologize for Mistakes
+If someone is being disrespectful to you, please consider addressing the issue directly with the person as a first step (preferably not by Slack message). You can provide feedback on how they made you feel, ask them questions, share observations, ask for repair (more about this in the next section), or set a boundary for yourself. If both parties have curiosity about where there is a communication misunderstanding, or where someone is feeling an unmet need, you will have a better outcome. **This is hard mode**, but leads to greater community health, healing, forgiveness, and closeness.
 
-Should you catch yourself behaving disrespectfully, or be confronted as such, listen intently, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. What matters is how you handle them and that you avoid repeating them in the future.
+Sometimes this is not productive though, particularly if one party is unwilling to examine their role in a situation and their behavior escalates to abuse or manipulation. If you feel in any way unable or unwilling to engage in this process, or you attempt and it leads to more harm, please bring it to the attention of an Organizer. We can provide additional support or take further action to remove someone from the community if all other avenues have been exhausted.
+
+## Repairing Conflict
+
+Should you catch yourself behaving disrespectfully, or if someone approaches you with an example of how you caused them harm: remember that even if your intentions are good, your actions can still hurt someone. It is inevitable when in relationship with others. When this happens, you have an opportunity to repair the harm you've caused. This is not easy to do, but necessary to create real growth in a relationship.
+
+One model of repair looks like:
+
+1. Ask the person if they would be willing for you to try to repair the harm you've caused. If they say no, respect their decision, and let them know you are available and willing whenever they are ready.
+1. If they say yes, ask the person to give you an account of the impact that your actions had on them. ("How did my behavior affect you in this situation?") Listen; do not say anything.
+1. When they finish, repeat back to them how you've heard that your actions had an impact on them. ("What I heard is that when I did X, you felt Y.") Try to repeat back as many details of what they said as possible, not just the overall impact.
+1. Ask if you have missed anything. Give them an opportunity to add more or clarify something about how you framed their feelings.
+1. Once they say you've captured their perspective, apologize and explain how you will avoid doing this same harm in the future. Do not say anything about your side, or why you did it. Just say: "I'm very sorry that when I X, you felt Y. In the future, I will Z instead and be more aware of 0."
+
+If you both hurt each other, you can both go through a cycle of this process. The important part is making sure that each person gets one full opportunity to be heard, with one person who is hearing and stating a commitment for the future.
+
+No one is perfect, and even well-intentioned people make mistakes. What matters is how you handle them and that you avoid repeating them in the future.
 
 ## Organizers
 
