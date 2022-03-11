@@ -47,8 +47,7 @@ This community is not a public space. However, no one has signed an non-disclosu
 If you want to publicly disclose anything discussed here, use the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule) as the guideline (“participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed”).
 
 For attribution of specific content found on this Slack, we ask that you ask the originator of the content for permission. If you don’t receive consent in a reasonable period of time, we ask that you credit the “Missoula Tech Slack.”
-
-## Remember You Have a Body
+## <a name="remember-you-have-a-body"> Remember You Have a Body</a>
 
 No matter what side of conflict you are on, we strongly recommend that when it comes up in Slack that you **pause and step away from your computer before engaging**. Become aware of how your body is reacting. Is your heart racing? Have your veins run cold? Are you blushing, or feeling flooded with the tiny needle pricks of mortification? If possible, move, breathe, dispel some energy, focus on something else, and stay away for at least an hour if you can. There is no urgency here, and how you react when your nervous system is preparing your body to engage with a threat will be much different than when it's not.
 
@@ -80,7 +79,7 @@ If you both hurt each other, you can both go through a cycle of this process. Th
 
 No one is perfect, and even well-intentioned people make mistakes. What matters is how you handle them and that you avoid repeating them in the future.
 
-## Organizers
+## <a name="organizers">Organizers</a>
 
 The Organizer(s) of Missoula Tech as of October 2021:
 
@@ -94,8 +93,5 @@ The Organizer(s) of Missoula Tech as of October 2021:
 ## Thanks
 
 Thank you to every Missoula Tech Slack community member for helping to make our home the respectful and inclusive community that it is.
-
-V0.2 of this Code of Conduct was published on October 2nd, 2021.
-V0.1 of this Code of Conduct was published on March 19th, 2020.
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
