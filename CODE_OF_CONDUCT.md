@@ -37,9 +37,9 @@ While self-promotion of one's company, product, or paid service is not allowed h
 1. Doing business in those channels is highly discouraged, and while some business may occur incidentally the primary purpose of these channels mirrors the purpose of this community.
 2. The organizers will be active in the channel and cannot sign an NDA for any incidental business related activites.
 3. This private space is an extension of the global space and represents an extension of trust by the community at large.  If you are not comfortable with or do not understand the responsibilities this entails, please refrain from asking for a private channel.
-4. While supportive and open to the state, national and international spheres of infleunce, this community is primarily focused on developing the Missoula Tech environment, keep this in mind while developing you organization or company.
+4. While supportive and open to the state, national and international spheres of influence, this community is primarily focused on developing the Missoula Tech environment, keep this in mind while developing your organization or company.
 
-If you are happy with these caveats, contact the organizers and they will work on setting up a channel for you.  The default and prefered title for the channel will be the established name of the company or organization, clearly delinieating the channels purpose for all those invited or involved.
+If you are happy with these agreements, contact the organizers and they will work on setting up a channel for you.  The default and prefered title for the channel will be the established name of the company or organization, clearly delinieating the channels purpose for all those invited or involved.
 
 ## Privacy
 
