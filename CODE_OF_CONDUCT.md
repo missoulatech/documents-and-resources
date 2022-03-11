@@ -1,27 +1,26 @@
-All participants in the Missoula Tech Slack are required to comply with the following Code of Conduct. Organizers (see below for definition of Organizers) will enforce this code throughout the Missoula Tech Slack.
+The following is a document laying out the agreements that this community has gathered around. There is a group of organizers that have volunteered their time and effort to support and encourage the growth of this space. If you have any questions or concerns about this community, please feel free to contact any of these [organizers listed below](#organizers).
 
 # The Short Version
 
-Be respectful of other people, respectfully ask people to stop if you are bothered; do not take advantage
-of this space to promote something in excess; respect privacy; and if you can’t resolve an issue with
-someone else you should contact the Organizers. If you are being a problem, it will be made clear to you, and you may be asked to leave the Missoula Tech Slack.
+Be respectful of other people and communicate your needs directly, respectfully ask people to stop if you are bothered; do not take advantage of this space to promote something in excess; respect privacy; and if you can’t resolve an issue with someone else you should contact the organizers. If you are being a problem, it will be made clear to you, and you may be asked to leave the Missoula Tech Slack. If you find you are particularly happy with an interaction make it stand out to the community as a positive event. In this way the community will be able to learn from your experience and grow.
 
 # The Long Version
 
 ## Respect
 
-The Missoula Tech Slack is an intentionally positive online community dedicated to the growth and evolution of our local community. We recognize and celebrate the creativity and collaboration of our independent members and the diversity of skills, talents, experiences, cultures, and opinions that they bring to Missoula, Montana and the World.
+The Missoula Tech Slack is an intentionally positive online community. We recognize and celebrate the creativity and collaboration of our independent members and the diversity of skills, talents, experiences, cultures, and opinions that they bring to Missoula, Montana and the world.
 
-The Missoula Tech Slack is an inclusive environment, based on treating all individuals respectfully, regardless of race, gender or gender identity (including transgender status), sexual orientation, age, disability, nationality, ethnicity, religion (or lack thereof), political affiliation, or career path.
+The Missoula Tech Slack is an inclusive environment, based on treating all individuals respectfully, while at the same time acknowledging race, gender or gender identity (including transgender status), sexual orientation, age, disability, nationality, ethnicity, religion (or lack thereof), political affiliation or career path. In the acknowledgement of these differential states our bodies and minds may react. We ask that you take time in this virtual space to slow down and listen to these [internal changes](#remember-you-have-a-body) before responding.
 
-We value respectful behavior above individual opinions.
+We value embodied respectful behavior above individual opinions.
 
-Respectful behavior includes but is not limited to:
+Embodied respectful behavior includes but is not limited to:
 
-- Be considerate, kind, constructive, and helpful.
+- Active listening with kindness, constructive responses, and helpful commentary.
 - Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
 - If you’re not sure, ask someone instead of assuming. No, really. Just ask the Organizers. We’d rather hear from you than hear about something you said or did after the fact, and we are here to help.
-- Don’t be a bystander. Role model respectful behaviour, but also help to address disrespect when you see it.
+- When you notice someone modeling respectful behavior, lift them up, create space for that behavior and empower that person to be a stronger voice in the community.
+- When you notice someone modeling disrespectful behavior reach out and connect or if you need support, gather the community, including the organizers, that's one reason they have volunteered, to support you in your growth.
 
 Disrespectful behavior outside this community may be considered a violation of this code of conduct at the discretion of the Organizers.
 
