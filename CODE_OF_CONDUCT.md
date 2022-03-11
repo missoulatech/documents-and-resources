@@ -30,6 +30,17 @@ Disrespectful behavior outside this community may be considered a violation of t
 Excessive self-promotion of one's company, product, or paid service is not allowed here. We are here to
 share a love of technology and build a community of mutual interests, not sell each other things.
 
+### Company channels
+
+While self-promotion of one's company, product, or paid service is not allowed here, we also realize that there are a lot of wonderfully creative people here and they may be interested in sharing their ideas.  If you would like to establish a private channel to discuss ideas or projects the organizers will be happy to create a channel for you.  With these following agreements:
+
+1. Doing business in those channels is highly discouraged, and while some business may occur incidentally the primary purpose of these channels mirrors the purpose of this community.
+2. The organizers will be active in the channel and cannot sign an NDA for any incidental business related activites.
+3. This private space is an extension of the global space and represents an extension of trust by the community at large.  If you are not comfortable with or do not understand the responsibilities this entails, please refrain from asking for a private channel.
+4. While supportive and open to the state, national and international spheres of infleunce, this community is primarily focused on developing the Missoula Tech environment, keep this in mind while developing you organization or company.
+
+If you are happy with these caveats, contact the organizers and they will work on setting up a channel for you.  The default and prefered title for the channel will be the established name of the company or organization, clearly delinieating the channels purpose for all those invited or involved.
+
 ## Privacy
 
 This community is not a public space. However, no one has signed an non-disclosure agreement (“NDA”) to participate, and you should not presume anything you say here will remain private, so act accordingly. Protect IP and legally-protected information.
@@ -85,6 +96,7 @@ The Organizer(s) of Missoula Tech as of October 2021:
 
 Thank you to every Missoula Tech Slack community member for helping to make our home the respectful and inclusive community that it is.
 
+V0.3 of this Code of Conduct was published on March 11th, 2022.
 V0.2 of this Code of Conduct was published on October 2nd, 2021.
 V0.1 of this Code of Conduct was published on March 19th, 2020.
 
