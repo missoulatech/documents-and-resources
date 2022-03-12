@@ -32,7 +32,7 @@ share a love of technology and build a community of mutual interests, not sell e
 
 ### Company channels
 
-While self-promotion of one's company, product, or paid service is not allowed here, we also realize that there are a lot of wonderfully creative people here and they may be interested in sharing their ideas.  If you would like to establish a private channel to discuss ideas or projects the organizers will be happy to create a channel for you.  With these following agreements:
+While self-promotion of one's company, product, or paid service is not allowed here, we also realize that there are a lot of wonderfully creative people here and they may be interested in sharing their ideas.  If you would like to establish a private channel for your company or organization the organizers will be happy to create a channel for you.  With these following agreements:
 
 1. Doing business in those channels is highly discouraged, and while some business may occur incidentally the primary purpose of these channels mirrors the purpose of this community.
 2. The organizers will be active in the channel and cannot sign an NDA for any incidental business related activites.
